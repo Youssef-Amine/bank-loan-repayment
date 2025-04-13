@@ -18,7 +18,7 @@ bank-loan-repayment/
 ├── README. md # Project description
 ├── requirements.txt # Packages required
 |
-├── creditcard.csv # Data 
+├── downloaddata.txt # Data link 
 |
 ├── LoanRepaymentClassification. ipynb # Working notebook
 |
