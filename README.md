@@ -22,7 +22,7 @@ bank-loan-repayment/
 |
 ├── LoanRepaymentClassification. ipynb # Working notebook
 |
-├── loanRF_model. pkl # Saved model
+├── loanRF_model. rar # Saved model
 |
 ├── app. py # Interactive app (Streamlit)
 ├── main. py #Server configuration 
