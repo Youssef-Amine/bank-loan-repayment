@@ -18,19 +18,14 @@ bank-loan-repayment/
 ├── README. md # Project description
 ├── requirements.txt # Packages required
 |
-├── data/ # Data (link)
-│ ├── raw/ # creditcard.csv
+├── creditcard.csv # Data 
 |
-├── notebooks/ # Working notebooks
-│ ├── LoanRepaymentClassification. ipynb # Exploratory analysis, Model training, Evaluation and visualizations
+├── LoanRepaymentClassification. ipynb # Working notebook
 |
-├── outputs/ # Results
-│ ├── loanRF_model. pkl/ # Saved model
+├── loanRF_model. pkl # Saved model
 |
-├── streamlit_app/ 
-│ └─ app. py # Interactive app (Streamlit)
+├── app. py # Interactive app (Streamlit)
 ├── main. py #Server configuration 
-``
 
 ---
 
