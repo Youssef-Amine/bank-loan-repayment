@@ -1,8 +1,13 @@
-Flask
-gunicorn
+pandas
 numpy
+matplolib
+seaborn
+sklearn
+fastapi
+unicorn
 pillow
 pydantic
-scikit-learn
+requests
+json
 joblib
-pandas
+streamlit
