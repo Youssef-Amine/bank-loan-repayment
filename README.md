@@ -4,8 +4,8 @@ This project aims to predict bank loan repayment with classification alagorithms
 ## Objectives
 
 - Analyze and preprocess records of loan applicants, with various attributes related to personal demographics, financial status, and loan details.
-- Build Logistic regression and Random Forest models
-- Evaluate models with Accuracy score, Confusion matrix and ROC-AUC to choose the best model
+- Build Logistic regression Random Forest and XGBoost models
+- Evaluate models with Confusion matrix, Precision, Recall, F1-score and PR-AUC to choose the best model
 - Visualization application with Streamlit
 
 ---
