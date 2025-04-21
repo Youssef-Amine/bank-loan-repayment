@@ -4,8 +4,8 @@ import joblib
 import pandas as pd
 #pip install fastapi uvicorn joblib sklearn pip install scikit-learn
 #uvicorn main:app --reload
-# Loading of the model
-model = joblib.load('loanRF_model.pkl')
+# Loading of the model (precise the file repository below
+model = joblib.load('repository/loanRF_model.pkl')
 
 # Creation of the app
 app = FastAPI()
