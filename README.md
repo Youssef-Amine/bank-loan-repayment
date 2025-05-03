@@ -27,9 +27,6 @@ bank-loan-repayment/
 ├── app. py # Interactive app (Streamlit)
 ├── main. py #Server configuration 
 
----
-
----
 
 ## 🔖 Technologies used
 
@@ -39,14 +36,10 @@ bank-loan-repayment/
 - Scikit-learn
 - Streamlit
 
----
-
 
 ## 📚 References
 
 - Kaggle dataset: https://www.kaggle.com/datasets/udaymalviya/bank-loan-data
-
----
 
 ## Results
 The Random Forest model probably overfits. The score is perfect on training data but its performance decreases on the test data, which means it doesn't generalize perfectly.
