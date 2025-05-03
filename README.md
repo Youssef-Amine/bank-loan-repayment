@@ -9,9 +9,9 @@ This project aims to predict bank loan repayment with classification alagorithms
 - Visualization application with Streamlit
 
 ---
+
 ## Project structure
 
-```bash
 bank-loan-repayment/
 |
 ├── README. md # Project description
@@ -36,18 +36,18 @@ bank-loan-repayment/
 - Streamlit
 ---
 
-
-## References
-
-- Kaggle dataset: https://www.kaggle.com/datasets/udaymalviya/bank-loan-data
-
-
-> Portfolio project developed in 2025 by Youssef SAWADOGO. If you have any questions, please contact me via wyoussef.sawadogo@gmail.com.
-
-
 ## Results
 The Random Forest model probably overfits. The score is perfect on training data but its performance decreases on the test data, which means it doesn't generalize perfectly.
 
 The XGBoost model learns well without overfiting. There is less discrepancy between the train and the test, showing a better ability to generalize. In practice, this is the model to use here, as it is more robust.
 
 Here we will choose Random Forest only the visualization purpose. In the Random Forest models there are more important features and it will need these features for data entries. In our Random Forest model, we can see around 12 important features, we will perform another Random Forest model with only these features for our application.
+
+
+## References
+- Kaggle dataset: https://www.kaggle.com/datasets/udaymalviya/bank-loan-data
+
+
+> Portfolio project developed in 2025 by Youssef SAWADOGO. If you have any questions, please contact me via wyoussef.sawadogo@gmail.com.
+
+
