@@ -11,7 +11,7 @@ This project aims to predict bank loan repayment with classification alagorithms
 ---
 
 ## Project structure
-
+```bash
 bank-loan-repayment/
 |
 ├── README. md # Project description
@@ -25,7 +25,7 @@ bank-loan-repayment/
 |
 ├── app. py # Interactive app (Streamlit)
 ├── main. py #Server configuration 
-
+```
 
 ## Technologies used
 
